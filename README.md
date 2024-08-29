@@ -1,8 +1,11 @@
 # Overview
-This repository is a short tutorial on [PyTorch](https://pytorch.org/). This tutorial will cover the following topics.  
+This repository is a short tutorial on [PyTorch](https://pytorch.org/).
+This tutorial contains 4 jupyter notebooks
 
 1. A review/intro to the [NumPy](https://numpy.org/) library.
 2. An intro to [torch tensors](https://pytorch.org/docs/stable/generated/torch.tensor.html) and how they relate to [numpy arrays](https://numpy.org/doc/stable/reference/generated/numpy.array.html)
+3. An implementation of the SVM classifier using NumPy
+4. The SVM classifier ported to PyTorch
 
 # Installation
 1. (Optional but recommended) Create and activate a virtual environment. This project was created using python `3.11.8` but anything `>=3.6` is probably fine for this tutorial. Refer to the following for different ways to create virtual environments
